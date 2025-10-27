@@ -1,0 +1,5 @@
+START: First line is a match.
+This is the second line.
+Third line.
+Fourth line.
+END: Last line is a match.
